@@ -1,0 +1,105 @@
+.standarSize {
+  width: 100px;
+  height: 50px;
+}
+
+p {
+  color: white;
+  text-align: center;
+  font-size: 10px;
+  font-weight: bold;
+  margin: 0;
+  height: 100%;
+  padding-top: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#div_mid p {
+  font-weight: bolder;
+  font-size: large;
+  height: 100%;
+  padding-top: 80px;
+}
+
+/* SECTION SELETORS */
+#left_section {
+  float: left;
+  width: 254px;
+}
+
+#mid_section {
+  float: left;
+}
+
+#right_section {
+  float: left;
+}
+
+/* DIV SELECTORS */
+#div_mid {
+  width: 200px;
+  height: 206px;
+  background-color: #ed6e62;
+}
+
+#div1 {
+  background-color: #c9316b;
+  float: left;
+}
+
+#div2 {
+  width: 150px;
+  height: 102px;
+  background-color: #ca319d;
+  float: right;
+}
+
+#div4 {
+  background-color: #efc437;
+}
+
+#div5 {
+  background-color: #538c45;
+  float: left;
+}
+
+#div6 {
+  background-color: #267c87;
+}
+
+#div7 {
+  background-color: #799928;
+  float: left;
+}
+
+#div8 {
+  width: 48px;
+  height: 50px;
+  background-color: #478755;
+  float: left;
+}
+
+#div9 {
+  background-color: #30c9c2;
+  float: left;
+}
+
+#div10 {
+  background-color: #31c98f;
+}
+
+#div11 {
+  width: 252px;
+  height: 50px;
+  background-color: #544079;
+  float: left;
+}
+
+#div12 {
+  background-color: #de212f;
+}
+
+div {
+  margin-right: 2px;
+  margin-bottom: 2px;
+}
